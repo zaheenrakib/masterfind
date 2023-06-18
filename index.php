@@ -5,7 +5,7 @@
 
 
 <?php include('includes/header.php'); ?>
-
+<meta http-equiv="refresh" content="1;url=index.php"> 
 
 <?php include('includes/nav.php'); ?>
 
